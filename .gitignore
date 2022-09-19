@@ -1,0 +1,5 @@
+*.pyc
+*.conf
+*.reg
+generated/
+__pycache__
