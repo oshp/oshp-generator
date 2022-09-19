@@ -10,6 +10,11 @@ You can use the provided scripts, as a foundation, to tailor it to your context.
 
 ![status](https://img.shields.io/badge/status-Under%20Active%20Development-informational?style=for-the-badge&logo=python)
 
+📑 Todo list:
+
+- [ ] Test generated configuration in CI pipelines (**GitHub actions workflows**) using [oshp-validator](https://github.com/oshp/oshp-validator) for all supported servers on script update (**commit**).
+- [ ] Add code audit using CodeQL with GitHub features.
+
 # How to use it?
 
 > 💻 The script does not use any external dependencies to enhance its portability.
@@ -54,8 +59,8 @@ Header always set Clear-Site-Data "\"cache\",\"cookies\",\"storage\""
 
 # References
 
-* <https://httpd.apache.org/docs/2.4/mod/mod_headers.html>
-* <https://github.com/openresty/headers-more-nginx-module>
-* <https://redmine.lighttpd.net/projects/lighttpd/wiki/Docs_ModSetenv>
-* <https://docs.microsoft.com/en-us/iis/configuration/system.webserver/httpprotocol/customheaders/>
-* <https://blog.g3rt.nl/nginx-add_header-pitfall.html>
+- <https://httpd.apache.org/docs/2.4/mod/mod_headers.html>
+- <https://github.com/openresty/headers-more-nginx-module>
+- <https://redmine.lighttpd.net/projects/lighttpd/wiki/Docs_ModSetenv>
+- <https://docs.microsoft.com/en-us/iis/configuration/system.webserver/httpprotocol/customheaders/>
+- <https://blog.g3rt.nl/nginx-add_header-pitfall.html>
