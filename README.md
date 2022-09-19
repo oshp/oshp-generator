@@ -1,12 +1,14 @@
 # OWASP Secure Headers Project generator
 
-> 🏗 This project is under development...
-
 The objective is to provide a way to generate the configuration for different web/app server with the headers to **add** and **remove** using the [reference json files](https://github.com/OWASP/www-project-secure-headers/tree/master/ci) provided by the OSHP project.
 
 You can use the provided scripts, as a foundation, to tailor it to your context.
 
 [Visual Studio Code](https://code.visualstudio.com/) is used for the tests suite development. A Visual Studio Code [workspace file](project.code-workspace) is provided for the project with [recommended extensions](.vscode/extensions.json).
+
+# Status
+
+![status](https://img.shields.io/badge/status-Under%20Active%20Development-informational?style=for-the-badge&logo=python)
 
 # How to use it?
 
