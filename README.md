@@ -8,7 +8,9 @@ You can use the provided scripts, as a foundation, to tailor it to your context.
 
 # Status
 
-![status](https://img.shields.io/badge/status-Under%20Active%20Development-informational?style=for-the-badge&logo=python)
+See [here](https://github.com/oshp/oshp-tracking/discussions/6#discussioncomment-4620641) for explanation.
+
+![status](https://img.shields.io/badge/status-Archived-important?style=for-the-badge&logo=python)
 
 📑 Todo list:
 
